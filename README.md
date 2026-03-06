@@ -1,4 +1,3 @@
-
 # AI Summary & Sentiment Emoji Translator
 
 A full-stack AI application that analyzes long text and returns:

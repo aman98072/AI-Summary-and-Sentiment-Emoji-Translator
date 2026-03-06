@@ -1,0 +1,28 @@
+
+AI Summary and Sentiment/Emoji Translator:
+Users pastes two pages of information as input , and the app creates the summary in four line, provides the sentiment detail (positive/neutral/negative) and the highlight sentences with emojis that made it to choose the sentiment of what it is 
+Tools: Cursor (can be downloaded from internet), OpenAI token 
+Language: Python, Fast API, Postgres, React frontend with typescript 
+Open AI token key : They can use theirs or if they want we can use ours which is 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
+The application should be runnable and have 
+• Frontend: A clean UI with an input box and a results display.
+• Backend: A lightweight API route that calls OpenAI endpoints and returns responses.
+• Code Quality: Write clean, modular code (component-based if using React).
+Deliverable - an app that I can paste the input and see the output
+
+
+
+
+please make a below project in my current directory : 
+
+AI Summary and Sentiment/Emoji Translator:
+Users pastes two pages of information as input , and the app creates the summary in four line, provides the sentiment detail (positive/neutral/negative) and the highlight sentences with emojis that made it to choose the sentiment of what it is 
+
+Language: Python, Fast API, open AI (LLM),  React frontend with typescript 
+
+The application should be runnable and have 
+• Frontend: A clean UI with an input box and a results display.
+• Backend: A lightweight API route that calls OpenAI endpoints and returns responses.
+• Code Quality: Write clean, modular code (component-based if using React).
+Deliverable - an app that I can paste the input and see the output
+
